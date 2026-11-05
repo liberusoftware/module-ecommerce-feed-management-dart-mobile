@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-feed-management-dart-mobile",
+  "capabilityKey": "planned:ecommerce:feed-management",
+  "presentation": "dart-mobile",
+  "package": "module_ecommerce_feed_management_dart_mobile",
+  "foundation": "module-boilerplate-dart-mobile",
+  "foundationCommit": "0656c212b36ef4f8ffd6fc74db4ac541268e7d31",
+  "canonicalPlan": "projects/ecommerce/nextjs/feed-management.md",
+  "presentationPlan": "projects/ecommerce/features/feed-management.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
